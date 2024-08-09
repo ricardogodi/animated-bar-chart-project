@@ -1,8 +1,8 @@
 // ----------------------------------------------------------------------
 // If you are interested in viewing the complete code,
-// please contact me directly. I would be happy to provide it
-// upon request, ensuring compliance with the necessary copyright
-// and intellectual property guidelines.
+// I can provide access to the private repository. 
+// Please contact me directly, and I will be happy to grant you permission
+// to read the repository.
 //
 // Thank you for your understanding.
 //
