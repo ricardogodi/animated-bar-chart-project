@@ -1,4 +1,4 @@
-## Animated Bar Chart Project (Code Available Upon Request)
+## Animated Bar Chart Project (Access to Full Repository Available Upon Request)
 
 This project implements a command-line application to animate historical data through dynamic bar charts. The application utilizes a modular architecture involving several components encapsulated within classes such as `Bar`, `BarChart`, and `BarChartAnimate`. 
 
@@ -36,7 +36,7 @@ This command compiles the application and immediately runs the animated bar char
 
 ## Code Availability
 
-Due to copyright restrictions, the complete source code is not included in this repository. However, if you are interested in reviewing the full code, please contact me directly. I would be happy to provide it upon request, ensuring compliance with all necessary copyright and intellectual property guidelines.
+Due to copyright restrictions, the complete source code is not included in this public repository. However, if you are interested in reviewing the full code, I can provide access to the entire private repository. Please contact me directly, and I will be happy to grant you permission to read the repository.
 
 
 ## Copyright and Acknowledgments
